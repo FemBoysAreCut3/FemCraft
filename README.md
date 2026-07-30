@@ -8,14 +8,6 @@ All-in-one, FemCraft aims to deliver a faster, cleaner, and more flexible Minecr
 
 **IMPORTANT: ONLY RELEASE VERSIONS OF FEMCRAFT CONTAIN ALL FEATURES. BETA/ALPHA VERSIONS MISS ALL MODS THAT HAVE NOT YET UPDATED!**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-V8-Jjdjo30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<details>
-<summary>Outdated Showcase</summary>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/47JTfTZCyrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</details>
-
 ## FAQ
 
 ### Why is there Meteor in the Modpack? Isnt that a Cheat Client?
